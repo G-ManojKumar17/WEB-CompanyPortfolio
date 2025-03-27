@@ -17,7 +17,7 @@ In this project, I developed a **multi-page static website** using **Bootstrap 4
 - **HTML** – For structuring the web pages.  
 - **CSS** – For styling and layout.  
 - **Bootstrap 4/5** – For responsive design and pre-built components.  
-- **JavaScript** – For interactive elements (if any).
+- **JavaScript** – For interactive elements.
   
 ## **📌 Conclusion:**
 This project demonstrates how to create a clean, responsive, and multi-page static website using **Bootstrap**. It serves as an example of my web development skills and showcases the ability to create professional portfolio websites. 🚀
