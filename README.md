@@ -1,6 +1,7 @@
 # **Company Portfolio | WEB APPLICATION**
 
 This is a **static website** with **multiple pages** designed to demonstrate my skills in **Bootstrap**. The website showcases various elements and components provided by the Bootstrap framework, such as responsive grids, navigation bars, cards, and forms. It's a portfolio-style site that includes sections for introduction, services, projects, and contact information.
+- This site is live. https://g-manojkumar17.github.io/WEB-CompanyPortfolio/default.html
 
 ## **📌 Project Overview**
 In this project, I developed a **multi-page static website** using **Bootstrap 4/5**. The goal was to demonstrate proficiency in using Bootstrap to create responsive, modern, and visually appealing layouts.
@@ -21,3 +22,6 @@ In this project, I developed a **multi-page static website** using **Bootstrap 4
   
 ## **📌 Conclusion:**
 This project demonstrates how to create a clean, responsive, and multi-page static website using **Bootstrap**. It serves as an example of my web development skills and showcases the ability to create professional portfolio websites. 🚀
+<br>
+<br>
+Implemented using concepts learned from a YouTube tutorial.
